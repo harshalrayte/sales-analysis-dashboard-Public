@@ -4,8 +4,7 @@ An end-to-end analysis of 1,000 sales orders (January 2023 to January 2024): Exc
 
 **Live dashboard:** https://harshalrayte.github.io/sales-analysis-dashboard-Public/
 
-<!-- Add a screenshot after uploading: save it as images/dashboard.png and remove the comment marks below -->
-<!-- ![Dashboard](images/dashboard.png) -->
+![Dashboard](dashboard.png)
 
 > The dataset is a sample used for practice. Sales amount is treated as revenue.
 
