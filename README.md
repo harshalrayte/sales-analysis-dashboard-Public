@@ -55,9 +55,9 @@ Profit is not analysed because unit price and unit cost do not reconcile with sa
 ## Repository
 
 ```
-docs/index.html            interactive dashboard (hosted with GitHub Pages)
-excel/sales_analysis.xlsx  pivot tables, KPI sheet, charts, slicers, insights
-data/sales_data.csv        dataset
+   index.html                 interactive dashboard (hosted with GitHub Pages)
+   sales_analysis.xlsx        pivot tables, KPI sheet, charts, slicers, insights
+   sales_data.csv             dataset
 ```
 
 ## Tools
